@@ -33,7 +33,5 @@
 | **ЦК БПЛА 2024-2025** | [МИСИС] | 2024 | ![](https://geps.dev/progress/100)|
 
 ## 🖼️ Сертификаты 
+<img src="images/T1_BAS.jpg" alt="T1_BAS" width="400"/>
 
-<div align="center">
-    <img src="images/T1_BAS.jpg" alt="T1_BAS" width="400"/>
-</div>
