@@ -35,5 +35,5 @@
 ## 🖼️ Сертификаты 
 
 <div align="center">
-  ф
+    <img src="images/T1_BAS.jpg" alt="T1_BAS" width="400"/>
 </div>
