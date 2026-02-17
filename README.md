@@ -19,8 +19,8 @@
 **Фреймворки и библиотеки:** <br>
 ![Django,Bootstrap,FastAPI](https://skillicons.dev/icons?i=django,bootstrap,fastapi)
 
-**Веб-технологии:**
+**Веб-технологии:**<br>
 ![HTML,CSS](https://skillicons.dev/icons?i=html,css)
 
-**ОС и окружение:**
+**ОС и окружение:**<br>
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
