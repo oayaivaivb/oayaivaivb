@@ -1,16 +1,23 @@
-## Hi there 👋
+#  Привет, меня зовут Александр👋
 
-<!--
-**oayaivaivb/oayaivaivb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне
+- **Нахожусь:** Москва, Россия
+- **Студент:** тетьего курс НИТУ МИСиС
+- **Направление:** ИВТ-СП (Информатика и вычислительная техника, системная программная инженерия)
+- Telegram: [@vlhkm](https://t.me/vlhkm)  
+- Email: alexander_mikhaylov05@mail.ru
 
-Here are some ideas to get you started:
+## 🛠 Технический стек
+### 🌌 Языки программирования
+![Python](https://skillicons.dev/icons?i=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💾 Базы данных
+![SQLite,MySql](https://skillicons.dev/icons?i=sqlite,mysql)
+
+### 🔧 Инструменты и технологии
+
+**Фреймворки и библиотеки:** ![Django,Bootstrap,FastAPI](https://skillicons.dev/icons?i=django,bootstrap,fastapi)
+
+**Веб-технологии:** ![HTML,CSS](https://skillicons.dev/icons?i=html,css)
+
+**ОС и окружение:** ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
