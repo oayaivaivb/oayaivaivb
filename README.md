@@ -16,8 +16,11 @@
 
 ### 🔧 Инструменты и технологии
 
-**Фреймворки и библиотеки:** ![Django,Bootstrap,FastAPI](https://skillicons.dev/icons?i=django,bootstrap,fastapi)
+**Фреймворки и библиотеки:** 
+![Django,Bootstrap,FastAPI](https://skillicons.dev/icons?i=django,bootstrap,fastapi)
 
-**Веб-технологии:** ![HTML,CSS](https://skillicons.dev/icons?i=html,css)
+**Веб-технологии:**
+![HTML,CSS](https://skillicons.dev/icons?i=html,css)
 
-**ОС и окружение:** ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+**ОС и окружение:**
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
