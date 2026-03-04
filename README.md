@@ -7,29 +7,27 @@
 - **Telegram:** [@vlhkm](https://t.me/vlhkm)  
 - **Email:** alexander_mikhaylov05@mail.ru
 
-## 🛠 Технический стек
-### 🌌 Языки программирования
-![Python](https://skillicons.dev/icons?i=python)
+🛠 Технический стек
+🌌 Языки программирования
+Python
 
-### 💾 Базы данных
-![SQLite,MySql](https://skillicons.dev/icons?i=sqlite,mysql)
+💾 Базы данных
+SQLite, MySQL
 
-### 🔧 Инструменты и технологии
+🔧 Инструменты и технологии
+Фреймворки и библиотеки:
 
-**Фреймворки и библиотеки:** <br>
-![Django,Bootstrap,FastAPI](https://skillicons.dev/icons?i=django,bootstrap,fastapi)
+Django, Bootstrap, FastAPI, Pygame, pyTelegramBotAPI, requests, pytest, unittest
 
-**Веб-технологии:**<br>
-![HTML,CSS](https://skillicons.dev/icons?i=html,css)
+Веб-технологии:
 
-**ОС и окружение:**<br>
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+HTML, CSS
 
 ## 📚 Пройденные курсы
 
 | Курс | Платформа | Год | Статус |
 |------|-----------|-----|--------|
-| **Python-разработчик** | Яндекс Практикум | 2025 | ![](https://geps.dev/progress/55) |
+| **Python-разработчик** | Яндекс Практикум | 2025 | ![](https://geps.dev/progress/65) |
 | **ЦК БПЛА 2024-2025** | [МИСИС] | 2024 | ![](https://geps.dev/progress/100)|
 
 ## 📚 Учебные проекты
@@ -39,7 +37,7 @@
 | [**Блогикум**](https://github.com/oayaivaivb/django-sprint4.git) | Платформа для ведения блога. Регистрация, публикации, комментарии, загрузка изображений, отложенные посты, пагинация | Python, Django, SQLite, HTML/CSS |
 | [**django-testing**](https://github.com/oayaivaivb/django-testing.git) | Тестирование Django-приложений. Проверка маршрутов, прав доступа, пагинации, сортировки, форм и фильтрации комментариев | Python, Django, unittest, pytest |
 | [**Изгиб Питона**](https://github.com/oayaivaivb/the_snake.git) | Классическая игра «Змейка» с графическим интерфейсом. Реализация на принципах ООП | Python, Pygame |
-
+| [**Бот-ассистент**](https://github.com/oayaivaivb/homework-bot) | Telegram-бот для отслеживания статуса домашних заданий на Яндекс.Практикуме. Опрашивает API сервиса, отправляет уведомления при изменении статуса, логирует события и ошибки | Python, pyTelegramBotAPI, requests, logging |
 ## 🖼️ Сертификаты 
 <img src="images/T1_BAS.jpg" alt="T1_BAS" width="400"/>
 
