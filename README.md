@@ -7,11 +7,11 @@
 - **Telegram:** [@vlhkm](https://t.me/vlhkm)  
 - **Email:** alexander_mikhaylov05@mail.ru
 
-🛠 Технический стек
-🌌 Языки программирования
+🛠 Технический стек<br>
+🌌 Языки программирования<br>
 Python
 
-💾 Базы данных
+💾 Базы данных<br>
 SQLite, MySQL
 
 🔧 Инструменты и технологии
