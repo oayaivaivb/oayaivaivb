@@ -8,20 +8,20 @@
 - **Email:** alexander_mikhaylov05@mail.ru
 
 🛠 Технический стек<br>
+
 🌌 Языки программирования<br>
-Python
+- Python
 
 💾 Базы данных<br>
-SQLite, MySQL
+- SQLite, MySQL
 
 🔧 Инструменты и технологии
-Фреймворки и библиотеки:
 
-Django, Bootstrap, FastAPI, Pygame, pyTelegramBotAPI, requests, pytest, unittest
+Фреймворки и библиотеки:
+- Django, Bootstrap, FastAPI, Pygame, pyTelegramBotAPI, requests, pytest, unittest
 
 Веб-технологии:
-
-HTML, CSS
+- HTML, CSS
 
 ## 📚 Пройденные курсы
 
