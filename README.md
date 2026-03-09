@@ -7,7 +7,7 @@
 - **Telegram:** [@vlhkm](https://t.me/vlhkm)  
 - **Email:** alexander_mikhaylov05@mail.ru
 
-##🛠 Технический стек<br>
+## 🛠 Технический стек<br>
 
 🌌 Языки программирования<br>
 - Python
