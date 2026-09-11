@@ -44,19 +44,6 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oayaivaivb&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oayaivaivb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oayaivaivb&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Избранные проекты
 
 ### [YaMDb API](https://github.com/oayaivaivb/api-yamdb)
