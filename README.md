@@ -117,7 +117,7 @@ Fullstack-приложение для публикации рецептов: и�
 ## 📫 Контакты
 
 <p align="left">
-  <a href="mailto:alexander_mikhaylov05@mail.ru">
+  <a href="mailto:vlhkmrdnxl@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/vlhkm" target="_blank">
