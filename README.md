@@ -58,7 +58,7 @@ Lakehouse-платформа для антифрода: федеративные
 
 > Стек: `Trino` `Apache Iceberg` `MinIO` `PostgreSQL` `Docker` `SQL`
 
-### [Telegram Raffle Bot (Kazinator)](https://www.google.com/search?q=https://github.com/oayaivaivb/kazinator)
+### [Telegram Raffle Bot (Kazinator)](https://github.com/oayaivaivb/kazinator)
 
 Асинхронный бот для проведения розыгрышей: FSM-сценарии в режиме «чистого чата», антифрод-алерты, генерация картинок победителей (Pillow) и выгрузка отчётов в Excel с автофильтрами.
 
