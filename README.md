@@ -47,25 +47,40 @@
 ## 🚀 Избранные проекты
 
 ### [YaMDb API](https://github.com/oayaivaivb/api-yamdb)
+
 REST API для отзывов на произведения: JWT-аутентификация, 4 роли пользователей, отзывы, комментарии, рейтинг.
+
 > Стек: `Python` `Django` `Django REST Framework` `SQLite`
 
 ### [Mini-Lakehouse — Banking Anti-Fraud Platform](https://github.com/oayaivaivb/mini-lakehouse)
+
 Lakehouse-платформа для антифрода: федеративные JOIN между PostgreSQL и S3 через Trino, Time Travel на Iceberg.
+
 > Стек: `Trino` `Apache Iceberg` `MinIO` `PostgreSQL` `Docker` `SQL`
 
+### [Telegram Raffle Bot (Kazinator)](https://www.google.com/search?q=https://github.com/oayaivaivb/kazinator)
+
+Асинхронный бот для проведения розыгрышей: FSM-сценарии в режиме «чистого чата», антифрод-алерты, генерация картинок победителей (Pillow) и выгрузка отчётов в Excel с автофильтрами.
+
+> Стек: `Python` `aiogram 3` `SQLAlchemy 2.0 (async)` `MySQL` `Redis` `APScheduler` `Pillow` `openpyxl` `Docker`
+
 ### [YaCut](https://github.com/oayaivaivb/async-yacut)
+
 Сервис укорачивания ссылок с REST API и асинхронной загрузкой файлов на Яндекс Диск.
+
 > Стек: `Python` `Flask` `SQLAlchemy` `aiohttp` `SQLite` `Bootstrap`
 
 ### [Foodgram](https://github.com/oayaivaivb/foodgram)
+
 Fullstack-приложение для публикации рецептов: избранное, подписки, список покупок, короткие ссылки.
+
 > Стек: `Python` `Django REST Framework` `Djoser` `PostgreSQL` `Docker` `Nginx` `Gunicorn` `CI/CD`
 
 ### [Криминология (общая часть)](https://github.com/oayaivaivb/criminology_studentsbook)
+
 Электронный учебник по криминологии: 9 глав, глоссарий, библиография, PDF и видео.
+
 > Стек: `Python` `Django` `Bootstrap 5` `SQLite` `HTML` `Render.com`
----
 
 ## 🖼️ Сертификаты
 
